@@ -1,0 +1,18 @@
+[
+  {
+    "itemname": "MY SUIT!",
+    "itemtype": "fursuit",
+    "itempicturename": "fursuit.png",
+    "itemdescription": "the main icon of my account!!",
+    "wasitgifted": false,
+    "whogifted": ""
+  },
+  {
+    "itemname": "Cheese",
+    "itemtype": "accessory",
+    "itempicturename": "placeholder.png",
+    "itemdescription": "has not arrived yet we will see!",
+    "wasitgifted": true,
+    "whogifted": "rain (my maker!)"
+  }
+]
