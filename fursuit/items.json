@@ -14,5 +14,14 @@
     "itemdescription": "has not arrived yet we will see!",
     "wasitgifted": true,
     "whogifted": "rain (my maker!)"
+  },
+  {
+    "itemname": "Badge",
+    "itemtype": "badge",
+    "itempicturename": "placeholder.png",
+    "itemdescription": "im pretty sure my maker has mentioned it!",
+    "wasitgifted": true,
+    "whogifted": "rain (my maker!)"
   }
 ]
+
