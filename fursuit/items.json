@@ -3,15 +3,15 @@
     "itemname": "MY SUIT!",
     "itemtype": "fursuit",
     "itempicturename": "fursuit.png",
-    "itemdescription": "the main icon of my account!!",
+    "itemdescription": "the main icon of my account!! (also known as kiwi)",
     "wasitgifted": false,
     "whogifted": ""
   },
   {
     "itemname": "cheese!!",
     "itemtype": "accessory",
-    "itempicturename": "placeholder.png",
-    "itemdescription": "has not arrived yet we will see!",
+    "itempicturename": "fursuitAcheese.png",
+    "itemdescription": "wonderful cheese that now sits on hims ear",
     "wasitgifted": true,
     "whogifted": "rain (my maker!)"
   },
@@ -20,6 +20,14 @@
     "itemtype": "badge",
     "itempicturename": "placeholder.png",
     "itemdescription": "who knows when it arrives!",
+    "wasitgifted": true,
+    "whogifted": "rain (my maker!)"
+  },
+  {
+    "itemname": "da tail!!",
+    "itemtype": "fursuit",
+    "itempicturename": "placeholder.png",
+    "itemdescription": "rain (my maker) has said it should be down my January, 2026.",
     "wasitgifted": true,
     "whogifted": "rain (my maker!)"
   }
