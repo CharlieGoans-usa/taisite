@@ -1,5 +1,11 @@
 [
   {
+    "username": "taidum",
+    "sociallink": "https://www.youtube.com/@thetaidumStreams",
+    "img": "taiyoutube.jpg",
+    "note": "my youtube"
+  },
+  {
     "username": "Ratty.Rasc:3",
     "sociallink": "https://tiktok.com/@ratty.rasc.3",
     "img": "rattyrasc3.png",
@@ -18,5 +24,6 @@
     "note": "my top gifter <3"
   }
 ]
+
 
 
