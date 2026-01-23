@@ -1,1 +1,1 @@
-heyo! i am a furry streamer that tries to stream everday (sometimes failing lmao) i do struggle with some mental health issues. as of now i have 2 fursuits. ive got 3 animals 2 cats 1 dog. i have 2 four-wheelers. and i am a student pilot.
+helo, quick to say i only stream on twitch from now on. i do have many many mental problems, and im happily single. love you all see ya on streams.
